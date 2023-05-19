@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-16 16:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+#: .\templates\films\movie_detail.html:25 .\templates\include\sidebar.html:25
+msgid "Год"
+msgstr "Year"
+
+#: .\templates\films\movie_detail.html:27
+msgid "Страна"
+msgstr "Country"
+
+#: .\templates\films\movie_detail.html:30
+msgid "Слоган"
+msgstr "Tagline"
+
+#: .\templates\films\movie_detail.html:34
+msgid "Режиссер"
+msgstr "Director"
+
+#: .\templates\films\movie_detail.html:42
+msgid "Актеры"
+msgstr "Actors"
+
+#: .\templates\films\movie_detail.html:50
+msgid "Жанр"
+msgstr "Genre"
+
+#: .\templates\films\movie_detail.html:56
+msgid "Примьера в мире"
+msgstr "World premier"
+
+#: .\templates\films\movie_detail.html:59
+msgid "Бюджет"
+msgstr "Budget"
+
+#: .\templates\films\movie_detail.html:61
+msgid "Сборы в США"
+msgstr "Fees in USA"
+
+#: .\templates\films\movie_detail.html:62
+msgid "Сборы в мире"
+msgstr "Fees in world"
+
+#: .\templates\films\movie_detail.html:66 .\templates\include\sidebar.html:40
+msgid "Рейтинг"
+msgstr "Rating"
+
+#: .\templates\films\movie_detail.html:114
+msgid "О фильме"
+msgstr "About the film"
+
+#: .\templates\films\movie_detail.html:141
+msgid "Оставить отзыв"
+msgstr "Leave feedback"
+
+#: .\templates\films\movie_detail.html:147
+msgid "Ваш комментарий"
+msgstr "Your feedback"
+
+#: .\templates\films\movie_detail.html:154
+msgid "Имя"
+msgstr "Name"
+
+#: .\templates\films\movie_detail.html:168
+msgid "Отправить"
+msgstr "Submit"
+
+#: .\templates\films\movie_detail.html:185
+msgid "Ответить"
+msgstr "Reply"
+
+#: .\templates\include\footer.html:14
+msgid "Лучший сайт для просмотра и покупки фильмов и сериалов!"
+msgstr "The best site to watch and buy movies and TV series!"
+
+#: .\templates\include\footer.html:16
+msgid "Социальные сети"
+msgstr "Social Network"
+
+#: .\templates\include\footer.html:46
+msgid "Разделы"
+msgstr "Sections"
+
+#: .\templates\include\footer.html:49 .\templates\include\header.html:13
+msgid "Главная"
+msgstr "Home"
+
+#: .\templates\include\footer.html:52 .\templates\include\header.html:16
+msgid "Категории"
+msgstr "Categories"
+
+#: .\templates\include\footer.html:55 .\templates\include\footer.html:85
+msgid "Контакты"
+msgstr "Contacts"
+
+#: .\templates\include\footer.html:66
+msgid "Реклама"
+msgstr "Advertising"
+
+#: .\templates\include\footer.html:69
+msgid "Вакансии"
+msgstr "Jobs"
+
+#: .\templates\include\footer.html:72
+msgid "Соглашение"
+msgstr "Agreement"
+
+#: .\templates\include\footer.html:75
+msgid "Форум"
+msgstr "Forum"
+
+#: .\templates\include\footer.html:78
+msgid "Служба поддержки"
+msgstr "Support"
+
+#: .\templates\include\footer.html:92
+msgid "Расположение"
+msgstr "Location"
+
+#: .\templates\include\footer.html:93
+msgid "Ирктуск"
+msgstr "Irkutsk"
+
+#: .\templates\include\sidebar.html:3
+#| msgid "О фильме"
+msgid "Поиск фильма"
+msgstr "About the film"
+
+#: .\templates\include\sidebar.html:12
+#| msgid "Жанр"
+msgid "Жанры"
+msgstr "Genre"
+
+#: .\templates\include\sidebar.html:35
+msgid "Найти"
+msgstr "Search"
